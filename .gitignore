@@ -1,0 +1,19 @@
+.DS_Store
+node_modules/
+.vercel/
+.sites-runtime/
+dist/
+.env*
+!.env.example
+screenshots/
+QA-RESULTS.json
+SOURCE-NOTES.md
+assets/original/
+assets/web-research/
+assets/processed/
+assets/reconstructed/*.png
+assets/reconstructed/*.txt
+Emmy Homes Realty/
+NLWC Stage Design/
+Singlz Summit Stage Design/
+logosandheart/

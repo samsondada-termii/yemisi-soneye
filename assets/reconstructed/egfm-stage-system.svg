@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 780" role="img" aria-labelledby="t d"><title id="t">EGFM — stage composition</title><desc id="d">A simplified frontal composition showing the central Who is Like God typography between repeated pink, violet and blue vertical fields on a black stage backdrop. It describes the visible graphic arrangement, not construction dimensions.</desc>
+<defs><linearGradient id="panel" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#ed8fa8"/><stop offset=".35" stop-color="#db78b4"/><stop offset=".65" stop-color="#a179c9"/><stop offset="1" stop-color="#799dde"/></linearGradient></defs>
+<rect width="1600" height="780" fill="#202323"/><g font-family="Arial,sans-serif" fill="#c7cbc3"><text x="65" y="65" font-size="16" letter-spacing="2">EGFM / EVENT ENVIRONMENT</text><text x="1535" y="65" font-size="13" text-anchor="end">GRAPHIC COMPOSITION</text></g>
+<rect x="100" y="160" width="1400" height="450" fill="#17171d"/>
+<g fill="url(#panel)"><rect x="370" y="160" width="80" height="450"/><rect x="610" y="160" width="80" height="450"/><rect x="1230" y="160" width="80" height="450"/><rect x="1420" y="160" width="80" height="450"/></g>
+<g fill="#e3d8e8" text-anchor="middle" font-family="Georgia,serif"><text x="960" y="342" font-size="43" font-weight="bold">WHO IS LIKE</text><text x="960" y="465" font-size="147">GOD?</text></g>
+<path d="M85 619H1515" stroke="#7f827b"/>
+<g fill="#b5b9b4" font-family="Arial,sans-serif" font-size="15"><text x="100" y="710">01 / Dark visual field</text><text x="620" y="710">02 / Vertical colour rhythm</text><text x="1230" y="710">03 / Central typography</text></g></svg>
