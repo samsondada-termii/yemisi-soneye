@@ -1,6 +1,6 @@
 # Yemisi Soneye — local portfolio
 
-A lightweight, nine-page static portfolio. No framework, production dependencies, external fonts, tracking or hosted image requests. **Not deployed.**
+A lightweight, nine-page static portfolio. No framework, production dependencies, external fonts, tracking or hosted image requests. Hosted on Vercel, connected to the GitHub repository.
 
 ## Run locally
 
@@ -52,3 +52,11 @@ Only `dist/` is a website deliverable. Do not host the workspace root.
 ## Contact
 
 soneyeoluwayemisi@gmail.com is configured and linked. Phone number, location and professional profile are intentionally omitted; they are optional and were not supplied.
+
+## Deployment
+
+GitHub: https://github.com/samsondada-termii/yemisi-soneye
+
+Vercel project: https://vercel.com/samsondada-termiis-projects/yemisi-soneye
+
+Vercel builds with `npm run build` and serves only `dist/`. Pushes to `main` deploy automatically. Original source folders, research notes, screenshots and local credentials are excluded from Git. Prepared website images are included, so a fresh clone can build without the private source archive.
